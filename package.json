@@ -1,0 +1,26 @@
+{
+  "name": "halo",
+  "version": "1.0.0",
+  "description": "Szociális Intézmény statisztikai felület",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "init-data": "node --experimental-json-modules tools/insert_data.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/david2242/halo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/david2242/halo/issues"
+  },
+  "homepage": "https://github.com/david2242/halo#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "express": "^4.17.2",
+    "firebase": "^9.6.5"
+  }
+}

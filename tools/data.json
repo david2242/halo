@@ -1,0 +1,412 @@
+﻿{
+    "clients": [
+        {
+            "base": "Vajta",
+            "service": "Szociális étkeztetés / Szociális konyha",
+            "taj": "090266038",
+            "firstName": "Kovács",
+            "lastName": "Zsanett",
+            "bornFirstName": "Kovács",
+            "bornLastName": "Zsanett",
+            "bornDate": "1987. 07. 24.",
+            "bornCity": "Székesfehérvár",
+            "motherFirstName": "Kovács",
+            "motherLastName": "Ágnes",
+            "serviceDates": "2021. 08. 16.",
+            "pandemic": "FALSE"
+        },
+        {
+            "base": "Mezőszilas",
+            "service": "Házi segítségnyújtás / Házi segítségnyújtás",
+            "taj": "104356247",
+            "firstName": "Rózsa",
+            "lastName": "József",
+            "bornFirstName": "Rózsa",
+            "bornLastName": "József",
+            "bornDate": "1953. 08. 23.",
+            "bornCity": "Mezőszilas",
+            "motherFirstName": "Kondor",
+            "motherLastName": "Julianna",
+            "serviceDates": "2021. 08. 02.",
+            "pandemic": "FALSE"
+        },
+        {
+            "base": "Cece",
+            "service": "Házi segítségnyújtás / Házi segítségnyújtás",
+            "taj": "061080171",
+            "firstName": "SZÖLLŐSI",
+            "lastName": "SÁNDORNÉ",
+            "bornFirstName": "PRUNNER",
+            "bornLastName": "JULIANNA",
+            "bornDate": "1945. 05. 01.",
+            "bornCity": "KUSTÁNY",
+            "motherFirstName": "NÉMETH",
+            "motherLastName": "ROZÁLIA",
+            "serviceDates": "2021. 08. 03.",
+            "pandemic": "TRUE"
+        },
+        {
+            "base": "Cece",
+            "service": "Szociális étkeztetés / Szociális konyha",
+            "taj": "055614429",
+            "firstName": "Szabó",
+            "lastName": "Ferencné",
+            "bornFirstName": "Sebestyén",
+            "bornLastName": "Mária",
+            "bornDate": "1935. 12. 11.",
+            "bornCity": "Sáregres",
+            "motherFirstName": "Kovács",
+            "motherLastName": "Julianna",
+            "serviceDates": "2021. 08. 04.",
+            "pandemic": "FALSE"
+        },
+        {
+            "base": "Mezőszilas",
+            "service": "Szociális étkeztetés / Szociális konyha",
+            "taj": "080316837",
+            "firstName": "Kutasi",
+            "lastName": "Anikó",
+            "bornFirstName": "Kutasi",
+            "bornLastName": "Anikó",
+            "bornDate": "1973. 03. 09.",
+            "bornCity": "Enying",
+            "motherFirstName": "Filó",
+            "motherLastName": "Julianna",
+            "serviceDates": "2021. 08. 06.",
+            "pandemic": "TRUE"
+        },
+        {
+            "base": "Vajta",
+            "service": "Szociális étkeztetés / Szociális konyha",
+            "taj": "021411665",
+            "firstName": "Huszár",
+            "lastName": "Ferenc",
+            "bornFirstName": "Huszár",
+            "bornLastName": "Ferenc",
+            "bornDate": "1957. 09. 04.",
+            "bornCity": "Sárbogárd",
+            "motherFirstName": "Pipellán",
+            "motherLastName": "Ilona",
+            "serviceDates": "2021. 08. 09.",
+            "pandemic": "FALSE"
+        },
+        {
+            "base": "Vajta",
+            "service": "Szociális étkeztetés / Szociális konyha",
+            "taj": "067427312",
+            "firstName": "Huszár",
+            "lastName": "Ferencné",
+            "bornFirstName": "Biber",
+            "bornLastName": "Mária",
+            "bornDate": "1954. 01. 27.",
+            "bornCity": "Sárszentmiklós",
+            "motherFirstName": "Csuti",
+            "motherLastName": "Mária",
+            "serviceDates": "2021. 08. 09.",
+            "pandemic": "FALSE"
+        },
+        {
+            "base": "Alap",
+            "service": "Házi segítségnyújtás / Házi segítségnyújtás",
+            "taj": "060992202",
+            "firstName": "Kiss",
+            "lastName": "Jánosné",
+            "bornFirstName": "Tóth",
+            "bornLastName": "Erzsébet",
+            "bornDate": "1945. 03. 16.",
+            "bornCity": "Alap",
+            "motherFirstName": "Idei",
+            "motherLastName": "Erzsébet",
+            "serviceDates": "2021. 09. 01.",
+            "pandemic": "FALSE"
+        },
+        {
+            "base": "Alap",
+            "service": "Házi segítségnyújtás / Házi segítségnyújtás",
+            "taj": "014095173",
+            "firstName": "Stadler",
+            "lastName": "István",
+            "bornFirstName": "Stadler",
+            "bornLastName": "István",
+            "bornDate": "1948. 04. 07.",
+            "bornCity": "Sárbogárd",
+            "motherFirstName": "Séllei",
+            "motherLastName": "Julianna",
+            "serviceDates": "2021. 09. 01.",
+            "pandemic": "FALSE"
+        },
+        {
+            "base": "Cece",
+            "service": "Házi segítségnyújtás / Házi segítségnyújtás",
+            "taj": "054293432",
+            "firstName": "Oláh",
+            "lastName": "Jánosné",
+            "bornFirstName": "Albert",
+            "bornLastName": "Ilona",
+            "bornDate": "1933. 01. 20.",
+            "bornCity": "Cece",
+            "motherFirstName": "Nyögöri",
+            "motherLastName": "Erzsébet",
+            "serviceDates": "2021. 09. 01.",
+            "pandemic": "FALSE"
+        },
+        {
+            "base": "Mezőszilas",
+            "service": "Szociális étkeztetés / Szociális konyha",
+            "taj": "061618745",
+            "firstName": "BALI",
+            "lastName": "FERENCNÉ",
+            "bornFirstName": "HORVÁTH",
+            "bornLastName": "ILONA",
+            "bornDate": "1946. 04. 12.",
+            "bornCity": "IGAR",
+            "motherFirstName": "BÖDŐ",
+            "motherLastName": "TERÉZ",
+            "serviceDates": "2021. 09. 03.",
+            "pandemic": "TRUE"
+        },
+        {
+            "base": "Mezőszilas",
+            "service": "Szociális étkeztetés / Szociális konyha",
+            "taj": "064284323",
+            "firstName": "Csalos",
+            "lastName": "Józsefné",
+            "bornFirstName": "Magyar",
+            "bornLastName": "Ilona",
+            "bornDate": "1950. 01. 20.",
+            "bornCity": "Rinyakovácsi",
+            "motherFirstName": "Ander",
+            "motherLastName": "Ilona",
+            "serviceDates": "2021. 09. 06.",
+            "pandemic": "FALSE"
+        },
+        {
+            "base": "Mezőszilas",
+            "service": "Házi segítségnyújtás / Házi segítségnyújtás",
+            "taj": "061560077",
+            "firstName": "Juhász",
+            "lastName": "Lászlóné",
+            "bornFirstName": "Kiss",
+            "bornLastName": "Irén",
+            "bornDate": "1946. 03. 08.",
+            "bornCity": "Mezőszilas",
+            "motherFirstName": "Őri",
+            "motherLastName": "Zsófia",
+            "serviceDates": "2021. 09. 06.",
+            "pandemic": "FALSE"
+        },
+        {
+            "base": "Cece",
+            "service": "Jelzőrendszeres házi segítségnyújtás / Jelzőrendszeres házi segítségnyújtás",
+            "taj": "061750690",
+            "firstName": "Nagy",
+            "lastName": "Lajosné",
+            "bornFirstName": "Balogh",
+            "bornLastName": "Katalina Erzsébet",
+            "bornDate": "1946. 06. 30.",
+            "bornCity": "Németkér",
+            "motherFirstName": "Horváth",
+            "motherLastName": "Katalin",
+            "serviceDates": "2021. 09. 07.",
+            "pandemic": "FALSE"
+        },
+        {
+            "base": "Alap",
+            "service": "Házi segítségnyújtás / Házi segítségnyújtás",
+            "taj": "007149766",
+            "firstName": "Siák",
+            "lastName": "János",
+            "bornFirstName": "Siák",
+            "bornLastName": "János",
+            "bornDate": "1935. 09. 21.",
+            "bornCity": "Sárszentágota",
+            "motherFirstName": "Popovics",
+            "motherLastName": "Mária",
+            "serviceDates": "2021. 09. 08.",
+            "pandemic": "FALSE"
+        },
+        {
+            "base": "Cece",
+            "service": "Szociális étkeztetés / Szociális konyha",
+            "taj": "024753135",
+            "firstName": "Horváth",
+            "lastName": "László",
+            "bornFirstName": "Horváth",
+            "bornLastName": "László",
+            "bornDate": "1963. 01. 13.",
+            "bornCity": "Sárbogárd",
+            "motherFirstName": "Halász",
+            "motherLastName": "Erzsébet",
+            "serviceDates": "2021. 09. 13.",
+            "pandemic": "FALSE"
+        },
+        {
+            "base": "Cece",
+            "service": "Házi segítségnyújtás / Házi segítségnyújtás",
+            "taj": "058617821",
+            "firstName": "Pordán Horváth",
+            "lastName": "Pálné",
+            "bornFirstName": "Mocsonaki",
+            "bornLastName": "Erzsébet",
+            "bornDate": "1941. 07. 18.",
+            "bornCity": "Szilasbalhás",
+            "motherFirstName": "Kovács",
+            "motherLastName": "Erzsébet",
+            "serviceDates": "2021. 09. 13.",
+            "pandemic": "FALSE"
+        },
+        {
+            "base": "Cece",
+            "service": "Szociális étkeztetés / Szociális konyha",
+            "taj": "023862771",
+            "firstName": "Viola",
+            "lastName": "Gyula",
+            "bornFirstName": "Viola",
+            "bornLastName": "Gyula",
+            "bornDate": "1961. 06. 14.",
+            "bornCity": "Veszprém",
+            "motherFirstName": "Kulcsár",
+            "motherLastName": "Karolin",
+            "serviceDates": "2021. 09. 17.",
+            "pandemic": "FALSE"
+        },
+        {
+            "base": "Cece",
+            "service": "Házi segítségnyújtás / Házi segítségnyújtás",
+            "taj": "023862771",
+            "firstName": "Viola",
+            "lastName": "Gyula",
+            "bornFirstName": "Viola",
+            "bornLastName": "Gyula",
+            "bornDate": "1961. 06. 14.",
+            "bornCity": "Veszprém",
+            "motherFirstName": "Kulcsár",
+            "motherLastName": "Karolin",
+            "serviceDates": "2021. 09. 17.",
+            "pandemic": "FALSE"
+        },
+        {
+            "base": "Vajta",
+            "service": "Szociális étkeztetés / Szociális konyha",
+            "taj": "054777934",
+            "firstName": "Tóth",
+            "lastName": "Józsefné",
+            "bornFirstName": "Huszár",
+            "bornLastName": "Mária",
+            "bornDate": "1934. 02. 07.",
+            "bornCity": "Vajta",
+            "motherFirstName": "Hunkár",
+            "motherLastName": "Mária",
+            "serviceDates": "2021. 09. 27.",
+            "pandemic": "FALSE"
+        },
+        {
+            "base": "Cece",
+            "service": "Házi segítségnyújtás / Házi segítségnyújtás",
+            "taj": "059755056",
+            "firstName": "Várady",
+            "lastName": "Lászlóné",
+            "bornFirstName": "Sohár",
+            "bornLastName": "Mária",
+            "bornDate": "1943. 05. 03.",
+            "bornCity": "Szekszárd",
+            "motherFirstName": "Bosnyák",
+            "motherLastName": "Mária",
+            "serviceDates": "2021. 09. 22.",
+            "pandemic": "FALSE"
+        },
+        {
+            "base": "Cece",
+            "service": "Szociális étkeztetés / Szociális konyha",
+            "taj": "061080171",
+            "firstName": "SZÖLLŐSI",
+            "lastName": "SÁNDORNÉ",
+            "bornFirstName": "PRUNNER",
+            "bornLastName": "JULIANNA",
+            "bornDate": "1945. 05. 01.",
+            "bornCity": "KUSTÁNY",
+            "motherFirstName": "NÉMETH",
+            "motherLastName": "ROZÁLIA",
+            "serviceDates": "2021. 09. 27.",
+            "pandemic": "TRUE"
+        }
+    ],
+    "caregivers": [
+        {
+            "name": "Orosziné Anikó",
+            "base": "Sárszentágota"
+        },
+        {
+            "name": "Bíróné Saci",
+            "base": "Cece"
+        },
+        {
+            "name": "Nyikosné Nati",
+            "base": "Cece"
+        },
+        {
+            "name": "Gaálné Ági",
+            "base": "Cece"
+        },
+        {
+            "name": "Hajduné Magdi",
+            "base": "Cece"
+        },
+        {
+            "name": "Balogh Laci",
+            "base": "Cece"
+        },
+        {
+            "name": "Molnár Brigi",
+            "base": "Alószentiván"
+        },
+        {
+            "name": "Farkas Istvánné",
+            "base": "Sáregres"
+        },
+        {
+            "name": "Mészáros Zsoltné  Anita",
+            "base": "Sáregres"
+        },
+        {
+            "name": "Puskás Anett",
+            "base": "Vajta"
+        },
+        {
+            "name": "Turiné Aranka",
+            "base": "Vajta"
+        },
+        {
+            "name": "Puskásné Anna",
+            "base": "Vajta"
+        },
+        {
+            "name": "Mészárosné Erika",
+            "base": "Vajta"
+        },
+        {
+            "name": "TischlerTünde",
+            "base": "Igar"
+        },
+        {
+            "name": "Tantics Zsuzsi",
+            "base": "Igar-Vám"
+        },
+        {
+            "name": "Ferenczné Gabi",
+            "base": "Mezőszilas"
+        },
+        {
+            "name": "Zakariásné Ica",
+            "base": "Mezőszilas"
+        },
+        {
+            "name": "Kovácsné Klári",
+            "base": "Mezőszilas"
+        },
+        {
+            "name": "Gyarmati Sándorné",
+            "base": "Mezőszilas"
+        }
+    ]
+}
